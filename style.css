@@ -61,3 +61,9 @@ form input.pointer2{
     background-color:coral;
     color: black;
 }
+@media (max-width:414px) {
+    .calculater{
+        display: flex;
+    }
+    
+}
